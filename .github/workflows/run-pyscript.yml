@@ -16,7 +16,7 @@ jobs:
         python-version: '3.12'  
 
     - name: Run Python Script
-      run: python  https://1drv.ms/u/c/203c8643a09ba22b/EWailAdNEEhHtsOVKVqIzR0BAD7MBYwpM5sfiSmIhv0Y3w?e=0aC8Bw
+      run: python  C:/Users/lejla/OneDrive/Рабочий стол/script.py
 
 
 
